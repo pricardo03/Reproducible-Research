@@ -1,6 +1,6 @@
 # Reproducible Research: Peer Assessment 1
-Rohit Chaube  
-Saturday, October 18, 2014  
+Ricardo Estrada  
+Sunday, March 15, 2015  
 
 This is an R Markdown document for Peer Assessments 1 for Reproducible Research Class - Oct 2014.
 
